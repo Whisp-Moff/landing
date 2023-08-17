@@ -125,4 +125,14 @@
     color: aliceblue;
     background-color: rgb(66, 80, 160);
     padding: 50px 0;
+
+      #footer{
+    background-color: #3e90ee;
+  }
+
+  #footer .social-media{
+    width: 80px;
+    padding-top: 70px;
+    padding-bottom: 30px;
+  }
   }
